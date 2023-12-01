@@ -1,5 +1,5 @@
 ## Old Version
-- [https://github.com/jaygajera17/E-commerce-project-springBoot/tree/main](https://github.com/Hugs-4-Bugs/E-COMMERCE-WEB-PROJECT-IN-SPRING-BOOT)
+- https://github.com/Hugs-4-Bugs/E-COMMERCE-WEB-PROJECT-IN-SPRING-BOOT.git
 - issue: everytime connection open close for access database 
 
 ## New Upgrade ( what's new)
